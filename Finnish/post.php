@@ -33,7 +33,7 @@ $lang_post = array(
 // Edit post
 'Edit post legend'	=>	'Edit the post and submit changes',
 'Silent edit'		=>	'Silent edit (don\'t display "Edited by ..." in topic view)',
-'Edit post'			=>	'Edit post',
-'Edit redirect'		=>	'Post updated. Redirecting …'
+'Edit post'			=>	'Muokkaa',
+'Edit redirect'		=>	'Viesti&auml; p&auml;ivitetty. Ohjataan...'
 
 );
