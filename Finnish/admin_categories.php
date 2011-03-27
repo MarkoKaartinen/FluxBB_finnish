@@ -4,14 +4,14 @@
 $lang_admin_categories = array(
 
 'Must enter name message'		=>	'Kirjoita nimi kategorialle',
-'Category added redirect'		=>	'Kategoria lis&auml;tty. Uudelleenohjataan â€¦',
-'Category deleted redirect'		=>	'Kategoria poistettu. Uudelleenohjataan â€¦',
+'Category added redirect'		=>	'Kategoria lis&auml;tty. Uudelleenohjataan...',
+'Category deleted redirect'		=>	'Kategoria poistettu. Uudelleenohjataan...',
 'Delete category head'			=>	'Poista kategoria (yhdess&auml; kaikkien siihen liittyvien foorumien ja niiden viestien kanssa.)',
 'Confirm delete subhead'		=>	'Vahvista kategorian poistaminen',
 'Confirm delete info'			=>	'Oletko varma, ett&auml; haluat poistaa kategorian <strong>%s</strong>?',
 'Delete category warn'			=>	'<strong>VAROITUS!</strong> Kategorian poistaminen poistaa my&ouml;s kaikki siihen liittyv&auml;t foorumit ja t&auml;h&auml;n kategoriaan kirjoiteut viestit!',
 'Must enter integer message'	=>	'Sinun t&auml;ytyy antaa positiivinen kokonaisuluku.',
-'Categories updated redirect'	=>	'Kategoriat p&auml;ivitetty. Uudelleenohjataan â€¦',
+'Categories updated redirect'	=>	'Kategoriat p&auml;ivitetty. Uudelleenohjataan...',
 'Add categories head'			=>	'Lis&auml;&auml; kategorioita',
 'Add categories subhead'		=>	'Lis&auml;&auml; kategorioita',
 'Add category label'			=>	'Lis&auml;&auml; uusi kategoria',
