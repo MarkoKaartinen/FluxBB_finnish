@@ -73,7 +73,7 @@ $lang_common = array(
 'Spacer'							=>	'…', // Ellipsis for paginate
 
 // Title
-'Title'								=>	'Otsikko',
+'Title'								=>	'Titteli',
 'Member'							=>	'J&auml;sen', // Default title
 'Moderator'							=>	'Moderaattori',
 'Administrator'						=>	'Yll&auml;pit&auml;j&auml;',
