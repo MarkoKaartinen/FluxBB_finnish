@@ -5,7 +5,7 @@ $lang_topic = array(
 
 'Post reply'		=>	'Vastaa',
 'Topic closed'		=>	'Aihe suljettu',
-'From'				=>	'From:', // User location
+'From'				=>	'Sijainti:', // User location
 'IP address logged'	=>	'IP tallennettu',
 'Note'				=>	'Huomio:', // Admin note
 'Posts'				=>	'Kirjoitukset:',
