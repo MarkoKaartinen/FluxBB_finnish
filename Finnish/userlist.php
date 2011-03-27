@@ -1,5 +1,5 @@
 <?php
-// Translated by: Mrkus
+
 // Language definitions used in userlist.php
 $lang_ul = array(
 
