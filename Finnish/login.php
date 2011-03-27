@@ -6,8 +6,8 @@ $lang_login = array(
 // Miscellaneous
 'Wrong user/pass'			=>	'Virheellinen k&auml;ytt&auml;j&auml;nimi ja / tai salasana.',
 'Forgotten pass'			=>	'Unohtuiko salasana?',
-'Login redirect'			=>	'Sis&auml;&auml;nkirjautuminen onnistui. Uudelleenohjataan â€¦',
-'Logout redirect'			=>	'Kirjauduit ulos. Uudelleenohjataan â€¦',
+'Login redirect'			=>	'Sis&auml;&auml;nkirjautuminen onnistui. Uudelleenohjataan...',
+'Logout redirect'			=>	'Kirjauduit ulos. Uudelleenohjataan...',
 'No email match'			=>	'Palveluun ei ole rekister&ouml;idytty k&auml;ytt&auml;j&auml;ksi antamallasi s&auml;hk&ouml;postiosoitteella.',
 'Request pass'				=>	'Pyyd&auml; uusi salasana',
 'Request pass legend'		=>	'Anna s&auml;hk&ouml;postiosoite jolla olet rekister&ouml;itynyt palveluun',
