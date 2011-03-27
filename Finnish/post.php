@@ -18,7 +18,7 @@ $lang_post = array(
 'Post errors'		=>	'Post errors',
 'Post errors info'	=>	'The following errors need to be corrected before the message can be posted:',
 'Post preview'		=>	'Post preview',
-'Guest name'		=>	'Name', // For guests (instead of Username)
+'Guest name'		=>	'Nimi', // For guests (instead of Username)
 'Post redirect'		=>	'Post entered. Redirecting …',
 'Post a reply'		=>	'Post a reply',
 'Post new topic'	=>	'Post new topic',
@@ -28,7 +28,7 @@ $lang_post = array(
 'Topic review'		=>	'Topic review (newest first)',
 'Flood start'		=>	'At least',
 'flood end'			=>	'seconds have to pass between posts. Please wait a little while and try posting again.',
-'Preview'			=>	'Preview', // submit button to preview message
+'Preview'			=>	'Esikatselu', // submit button to preview message
 
 // Edit post
 'Edit post legend'	=>	'Edit the post and submit changes',
