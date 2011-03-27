@@ -8,6 +8,7 @@ Team behind the translation:
 About:
 - Finnish folder includes FluxBB translation
 - Modifications folder includes language files for modifications
+- All scandinavian characters are replaced with entiteties (Š -> &auml;)
 
 FluxBB.fi:
 FluxBB.fi is a finnish community for FluxBB forum software.
