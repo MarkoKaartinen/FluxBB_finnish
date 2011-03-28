@@ -4,49 +4,49 @@
 $lang_profile = array(
 
 // Navigation and sections
-'Profile menu'					=>	'Profile menu',
-'Section essentials'			=>	'Essentials',
-'Section personal'				=>	'Personal',
-'Section messaging'				=>	'Messaging',
+'Profile menu'					=>	'Profiilivalikko',
+'Section essentials'			=>	'Yleiset',
+'Section personal'				=>	'Henkilötiedot',
+'Section messaging'				=>	'Viestintä',
 'Section personality'			=>	'Personality',
-'Section display'				=>	'Display',
-'Section privacy'				=>	'Privacy',
-'Section admin'					=>	'Administration',
+'Section display'				=>	'Mukauttaminen',
+'Section privacy'				=>	'Yksityisyysasetukset',
+'Section admin'					=>	'Hallinta',
 
 // Miscellaneous
-'Username and pass legend'		=>	'Enter your username and password',
+'Username and pass legend'		=>	'Anna käyttäjänimi ja salasana',
 'Personal details legend'		=>	'Enter your personal details',
 'Contact details legend'		=>	'Enter your messaging details',
-'User activity'					=>	'User activity',
+'User activity'					=>	'Käyttäjän aktiivisuus',
 'Paginate info'					=>	'Enter the number of topics and posts you wish to view on each page.',
 
 // Password stuff
 'Pass key bad'					=>	'The specified password activation key was incorrect or has expired. Please re-request a new password. If that fails, contact the forum administrator at',
-'Pass updated'					=>	'Your password has been updated. You can now login with your new password.',
-'Pass updated redirect'			=>	'Password updated. Redirecting …',
-'Wrong pass'					=>	'Wrong old password.',
-'Change pass'					=>	'Change password',
-'Change pass legend'			=>	'Enter and confirm your new password',
-'Old pass'						=>	'Old password',
-'New pass'						=>	'New password',
-'Confirm new pass'				=>	'Confirm new password',
-'Pass info'						=>	'Passwords must be at least 4 characters long. Passwords are case sensitive.',
+'Pass updated'					=>	'Salasanasi on vaihdettu. Voit nyt kirjautua sisään uudella salasanalla.',
+'Pass updated redirect'			=>	'Salasana vaihdettu. Uudelleenohjataan …',
+'Wrong pass'					=>	'Väärä vanha salasana.',
+'Change pass'					=>	'Muuta salasana',
+'Change pass legend'			=>	'Syötä ja vahvista uusi salasana',
+'Old pass'						=>	'Vanha salasana',
+'New pass'						=>	'Uusi salasana',
+'Confirm new pass'				=>	'Vahvista uusi salasana',
+'Pass info'						=>	'Salasanan täytyy olla vähintään 4 merkkiä pitkä. Isot ja pienet kirjaimet huomioidaan.',
 
 // Email stuff
 'Email key bad'					=>	'The specified email activation key was incorrect or has expired. Please re-request change of email address. If that fails, contact the forum administrator at',
-'Email updated'					=>	'Your email address has been updated.',
+'Email updated'					=>	'Sähköpostiosoitteesi on vaihdettu.',
 'Activate email sent'			=>	'An email has been sent to the specified address with instructions on how to activate the new email address. If it doesn\'t arrive you can contact the forum administrator at',
-'Email legend'					=>	'Enter your new email address',
+'Email legend'					=>	'Anna uusi sähköpostiosoite',
 'Email instructions'			=>	'An email will be sent to your new address with an activation link. You must click the link in the email you receive to activate the new address.',
-'Change email'					=>	'Change email address',
-'New email'						=>	'New email',
+'Change email'					=>	'Vaihda sähköpostiosoite',
+'New email'						=>	'Uusi sähköposti',
 
 // Avatar upload stuff
 'Avatars disabled'				=>	'The administrator has disabled avatar support.',
-'Too large ini'					=>	'The selected file was too large to upload. The server didn\'t allow the upload.',
-'Partial upload'				=>	'The selected file was only partially uploaded. Please try again.',
-'No tmp directory'				=>	'PHP was unable to save the uploaded file to a temporary location.',
-'No file'						=>	'You did not select a file for upload.',
+'Too large ini'					=>	'Valitsemasi tiedosto on liian suuri llähetettäväksi. Palvelin ei hyväksy lähetyspyyntöäsi.',
+'Partial upload'				=>	'Tiedosto lähettäminen epäonnistui. Yritä uudelleen.',
+'No tmp directory'				=>	'PHP ei pystynyt tallentamaan tiedostoa.',
+'No file'						=>	'Et ole valinnut tiedostoa lähetettäväksi.',
 'Bad type'						=>	'The file you tried to upload is not of an allowed type. Allowed types are gif, jpeg and png.',
 'Too wide or high'				=>	'The file you tried to upload is wider and/or higher than the maximum allowed',
 'Too large'						=>	'The file you tried to upload is larger than the maximum allowed',
@@ -59,13 +59,13 @@ $lang_profile = array(
 'Avatar desc'					=>	'An avatar is a small image that will be displayed under your username in your posts. It must not be any bigger than',
 'Upload avatar'					=>	'Upload avatar',
 'Upload avatar legend'			=>	'Enter an avatar file to upload',
-'Delete avatar'					=>	'Delete avatar', // only for admins
-'File'							=>	'File',
-'Upload'						=>	'Upload', // submit button
+'Delete avatar'					=>	'Poista keskustelukuvake', // only for admins
+'File'							=>	'Tiedosto',
+'Upload'						=>	'Lähetä', // submit button
 
 // Form validation stuff
 'Forbidden title'				=>	'The title you entered contains a forbidden word. You must choose a different title.',
-'Profile redirect'				=>	'Profile updated. Redirecting …',
+'Profile redirect'				=>	'Profiilin tiedot päivitetty. Uudelleenohjataan …',
 
 // Profile display stuff
 'Users profile'					=>	'%s\'s profile',
@@ -78,8 +78,8 @@ $lang_profile = array(
 'Show posts'					=>	'Show all posts',
 'Show topics'					=>	'Show all topics',
 'Show subscriptions'			=>	'Show all subscriptions',
-'Realname'						=>	'Real name',
-'Location'						=>	'Location',
+'Realname'						=>	'Todellinen nimi',
+'Location'						=>	'Asuinpaikka',
 'Website'						=>	'Website',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
