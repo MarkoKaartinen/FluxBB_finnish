@@ -30,7 +30,7 @@ $lang_help = array(
 'FluxBB bbcode test'	=>	'FluxBB bbcode testi',
 
 'Quotes'				=>	'Lainaukset',
-'Quotes info'			=>	'Jos halaut lainata jotakin, sinun tulee käyttää quote-tagia.',
+'Quotes info'			=>	'Jos haluat lainata jotakin, sinun tulee käyttää quote-tagia.',
 'Quotes info 2'			=>	'Jos et halua lainata ketään ennaltamäärättyä henkilöä, voit käyttää tagia ilman nimeä.',
 'Quote text'			=>	'Lainattava teksti.',
 'produces quote box'	=>	'tuottaa seuraavanlaisen lainauksen:',
