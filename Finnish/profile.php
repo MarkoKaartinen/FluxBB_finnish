@@ -33,16 +33,16 @@ $lang_profile = array(
 'Pass info'						=>	'Salasanan täytyy olla vähintään 4 merkkiä pitkä. Isot ja pienet kirjaimet huomioidaan.',
 
 // Email stuff
-'Email key bad'					=>	'The specified email activation key was incorrect or has expired. Please re-request change of email address. If that fails, contact the forum administrator at',
+'Email key bad'					=>	'Aktivointiavaimesi on virheellinen tai sen voimassaoloaika on päättynyt. Pyydä sähköpostiosoitteen vaihtoa uudelleen. Jos tämä epäonnistuu, ota yhteyttä keskustelualueen pääkäyttäjään.',
 'Email updated'					=>	'Sähköpostiosoitteesi on vaihdettu.',
 'Activate email sent'			=>	'An email has been sent to the specified address with instructions on how to activate the new email address. If it doesn\'t arrive you can contact the forum administrator at',
 'Email legend'					=>	'Anna uusi sähköpostiosoite',
-'Email instructions'			=>	'An email will be sent to your new address with an activation link. You must click the link in the email you receive to activate the new address.',
+'Email instructions'			=>	'Aktivointilinkki lähetetään uuteen sähköpostiosoitteeseen. Sinun täytyy avata sähköpostiviestin linkki aktivoidaksesi uuden sähköpostiosoitteen.',
 'Change email'					=>	'Vaihda sähköpostiosoite',
 'New email'						=>	'Uusi sähköposti',
 
 // Avatar upload stuff
-'Avatars disabled'				=>	'The administrator has disabled avatar support.',
+'Avatars disabled'				=>	'Pääkäyttäjä on estänyt keskustelukuvakkeiden käytön.',
 'Too large ini'					=>	'Valitsemasi tiedosto on liian suuri llähetettäväksi. Palvelin ei hyväksy lähetyspyyntöäsi.',
 'Partial upload'				=>	'Tiedosto lähettäminen epäonnistui. Yritä uudelleen.',
 'No tmp directory'				=>	'PHP ei pystynyt tallentamaan tiedostoa.',
@@ -50,8 +50,8 @@ $lang_profile = array(
 'Bad type'						=>	'The file you tried to upload is not of an allowed type. Allowed types are gif, jpeg and png.',
 'Too wide or high'				=>	'The file you tried to upload is wider and/or higher than the maximum allowed',
 'Too large'						=>	'The file you tried to upload is larger than the maximum allowed',
-'pixels'						=>	'pixels',
-'bytes'							=>	'bytes',
+'pixels'						=>	'pikseliä',
+'bytes'							=>	'bittiä',
 'Move failed'					=>	'The server was unable to save the uploaded file. Please contact the forum administrator at',
 'Unknown failure'				=>	'An unknown error occurred. Please try again.',
 'Avatar upload redirect'		=>	'Avatar uploaded. Redirecting …',
