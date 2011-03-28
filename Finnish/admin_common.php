@@ -38,7 +38,7 @@ $lang_admin_common = array(
 'Maintenance mode'		=>	'Huoltotila', // Used for link text in more than one file
 
 // Admin loader
-'No plugin message'		=>	'Laajennusta %s ei ole löydy.',
+'No plugin message'		=>	'Laajennusta %s ei löydy.',
 'Plugin failed message'	=>	'Laajennuksen - <strong>%s</strong> - avaus epäonnistui.',
 
 );
