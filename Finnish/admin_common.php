@@ -4,14 +4,14 @@
 $lang_admin_common = array(
 
 // The menu
-'Admin menu'			=>	'Ylläpitovalikko',
+'Admin menu'			=>	'Yll&auml;pitovalikko',
 'Plugins menu'			=>	'Laajennusvalikko',
 'Moderator menu'		=>	'Moderointivalikko',
 'Index'					=>	'Index',
 'Categories'			=>	'Kategoria',
 'Forums'				=>	'Foorumi',
-'Users'					=>	'Käyttäjät',
-'User groups'			=>	'Käyttäjäryhmät',
+'Users'					=>	'K&auml;ytt&auml;j&auml;t',
+'User groups'			=>	'K&auml;ytt&auml;j&auml;ryhm&auml;t',
 'Options'				=>	'Asetukset',
 'Permissions'			=>	'Oikeudet',
 'Censoring'				=>	'Sensurointi',
@@ -21,24 +21,24 @@ $lang_admin_common = array(
 'Maintenance'			=>	'Huolto',
 'Reports'				=>	'Raportit',
 
-'Admin'					=>	'Ylläpitäjä',
+'Admin'					=>	'Yll&auml;pit&auml;j&auml;',
 'Go back'				=>	'Takaisin',
 'Delete'				=>	'Poista',
-'Update'				=>	'Päivitä',
-'Add'					=>	'Lisää',
+'Update'				=>	'P&auml;ivit&auml;',
+'Add'					=>	'Lis&auml;&auml;',
 'Edit'					=>	'Muokkaa',
 'Remove'				=>	'Poista',
-'Yes'					=>	'Kyllä',
+'Yes'					=>	'Kyll&auml;',
 'No'					=>	'No en!',
 'Save changes'			=>	'Tallenna muutokset',
 'Save'					=>	'Tallenna',
-'here'					=>	'Täällä',
+'here'					=>	'T&auml;&auml;ll&auml;',
 'Action'				=>	'Toiminto',
-'None'					=>	'Ei mitään',
+'None'					=>	'Ei mit&auml;&auml;n',
 'Maintenance mode'		=>	'Huoltotila', // Used for link text in more than one file
 
 // Admin loader
-'No plugin message'		=>	'Laajennusta %s ei löydy.',
-'Plugin failed message'	=>	'Laajennuksen - <strong>%s</strong> - avaus epäonnistui.',
+'No plugin message'		=>	'Laajennusta %s ei l&ouml;ydy.',
+'Plugin failed message'	=>	'Laajennuksen - <strong>%s</strong> - avaus ep&auml;onnistui.',
 
 );
