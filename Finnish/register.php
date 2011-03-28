@@ -4,7 +4,7 @@
 $lang_register = array(
 
 // Miscellaneous
-'No new regs'				=>	'Keskustelupalasta ei ota tällä hetkellä vastaan uusia rekisteröitymisiä.',
+'No new regs'				=>	'Keskustelualue ei ota tällä hetkellä vastaan uusia rekisteröitymisiä.',
 'Reg cancel redirect'		=>	'Rekisteröityminen peruutettu. Uudelleenohjataan ...',
 'Forum rules'				=>	'S&auml;&auml;nn&ouml;t',
 'Rules legend'				=>	'Sinun täytyy hyväksyä käyttöehdot reksiteröityäksesi.',
