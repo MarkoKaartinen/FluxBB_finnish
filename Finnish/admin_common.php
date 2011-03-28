@@ -4,18 +4,18 @@
 $lang_admin_common = array(
 
 // The menu
-'Admin menu'			=>	'Ylläpito valikko',
-'Plugins menu'			=>	'Laajennus valikko',
-'Moderator menu'		=>	'Moderointi valikko',
+'Admin menu'			=>	'Ylläpitovalikko',
+'Plugins menu'			=>	'Laajennusvalikko',
+'Moderator menu'		=>	'Moderointivalikko',
 'Index'					=>	'Index',
 'Categories'			=>	'Kategoria',
 'Forums'				=>	'Foorumi',
 'Users'					=>	'Käyttäjät',
-'User groups'			=>	'Käyttäjä ryhmät',
+'User groups'			=>	'Käyttäjäryhmät',
 'Options'				=>	'Asetukset',
 'Permissions'			=>	'Oikeudet',
 'Censoring'				=>	'Sensurointi',
-'Ranks'					=>	'Arvo',
+'Ranks'					=>	'Arvot',
 'Bans'					=>	'Bannit',
 'Prune'					=>	'Karsia',
 'Maintenance'			=>	'Huolto',
@@ -35,10 +35,10 @@ $lang_admin_common = array(
 'here'					=>	'Täällä',
 'Action'				=>	'Toiminto',
 'None'					=>	'Ei mitään',
-'Maintenance mode'		=>	'Huolto tila', // Used for link text in more than one file
+'Maintenance mode'		=>	'Huoltotila', // Used for link text in more than one file
 
 // Admin loader
-'No plugin message'		=>	'Laajennusta %s ei ole laajennus kansiossa.',
+'No plugin message'		=>	'Laajennusta %s ei ole löydy.',
 'Plugin failed message'	=>	'Laajennuksen - <strong>%s</strong> - avaus epäonnistui.',
 
 );
