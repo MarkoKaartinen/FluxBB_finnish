@@ -4,34 +4,34 @@
 $lang_register = array(
 
 // Miscellaneous
-'No new regs'				=>	'This forum is not accepting new registrations.',
-'Reg cancel redirect'		=>	'Registration cancelled. Redirecting …',
+'No new regs'				=>	'Keskustelupalasta ei ota tällä hetkellä vastaan uusia rekisteröitymisiä.',
+'Reg cancel redirect'		=>	'Rekisteröityminen peruutettu. Uudelleenohjataan ...',
 'Forum rules'				=>	'S&auml;&auml;nn&ouml;t',
-'Rules legend'				=>	'You must agree to the following in order to register',
-'Registration flood'		=>	'A new user was registered with the same IP address as you within the last hour. To prevent registration flooding, at least an hour has to pass between registrations from the same IP. Sorry for the inconvenience.',
-'Agree'						=>	'Agree',
-'Cancel'					=>	'Cancel',
-'Register'					=>	'Register',
+'Rules legend'				=>	'Sinun täytyy hyväksyä käyttöehdot reksiteröityäksesi.',
+'Registration flood'		=>	'Uusi käyttäjä on rekisteröitynyt samasta IP- osoitteesta viimeisimmän tunnin sisällä. Rekisteröidyttäessä samasta IP- osoitteesta rekisteröitymisien välillä on tunnin viive. Yritä tunnin päästä uudelleen. Pahoittelemme teille mahdollisesti aiheutunutta ylimäärästä vaivannäköä.',
+'Agree'						=>	'Hyväksy',
+'Cancel'					=>	'Peruuta',
+'Register'					=>	'Rekisteröidy',
 
 // Form validation stuff (some of these are also used in post.php)
-'Registration errors'		=>	'Registration errors',
-'Registration errors info'	=>	'The following errors need to be corrected before you can register:',
-'Username censor'			=>	'The username you entered contains one or more censored words. Please choose a different username.',
-'Username dupe 1'			=>	'Someone is already registered with the username',
-'Username dupe 2'			=>	'The username you entered is too similar. The username must differ from that by at least one alphanumerical character (a-z or 0-9). Please choose a different username.',
-'Email not match'			=>	'Email addresses do not match.',
+'Registration errors'		=>	'Rekisteröitymisen virhetilanteet',
+'Registration errors info'	=>	'Seuraavat kohdat tulee korjata ennen rekisteröitymistä:',
+'Username censor'			=>	'Annettu käyttäjänimi sisältää yhden tai useampia sanoja joita ei hyväksytä. Valitse toinen käyttäjänimi ja yritä uudelleen.',
+'Username dupe 1'			=>	'Antamasi käyttäjänimellä on jo rekisteröidytty. Valitse toinen käyttäjänimi ja yritä uudelleen.',
+'Username dupe 2'			=>	'Antamasi käyttäjänimi on liian yleinen, valitse toinen käyttäjänimi. Käyttäjänimen tulee erota vähintään yhdellä tai useammalla merkillä (a-z tai 0-9).',
+'Email not match'			=>	'Sähköpostiosoiteet eivät vastaa toisiaan. Tarkista antamasi sähköpostiosoitteet.',
 
 // Registration email stuff
-'Reg email'					=>	'Thank you for registering. Your password has been sent to the specified address. If it doesn\'t arrive you can contact the forum administrator at',
-'Reg complete'				=>	'Registration complete. Logging in and redirecting …',
+'Reg email'					=>	'Kiitos rekisteröitymisestä! Salasanasi on lähetetty antamaasi sähköpostiosoitteeseen. Jos viesti ei saavu perille tarkista sähköposisi roskapsotikansio. Ongelmatilanteessa ota yhteyttä keskustelupalstan pääkäyttäjään.',
+'Reg complete'				=>	'Rekisteröityminen onnistui. Uudelleenohjataan sisäänkirjautumista varten …',
 
 // Register info
-'Desc 1'					=>	'Registration will grant you access to a number of features and capabilities otherwise unavailable. These functions include the ability to edit and delete posts, design your own signature that accompanies your posts and much more. If you have any questions regarding this forum you should ask an administrator.',
-'Desc 2'					=>	'Below is a form you must fill out in order to register. Once you are registered you should visit your profile and review the different settings you can change. The fields below only make up a small part of all the settings you can alter in your profile.',
-'Username legend'			=>	'Please enter a username between 2 and 25 characters long',
-'Pass legend'				=>	'Please enter and confirm your chosen password',
-'Pass info'					=>	'Passwords must be at least 4 characters long. Passwords are case sensitive.',
-'Email info'				=>	'You must enter a valid email address as your randomly generated password will be sent to that address.',
-'Confirm email'				=>	'Confirm email address',
+'Desc 1'					=>	'Rekisteröityminen antaa sinulle oikeuden useisiin toimintoihin, jotka eivät ole käytettävissä ilman rekisteröintiä. Rekisteröityminen antaa oikeuden mm. toimintoihin kuten viestien muokkaaminen ja poistaminen sekä oman viestikohtaisen allekirjoituksen laatiminen. Mikäli sinulla on kysyttävää tähän keskustelupalstaan liittyen, ota yhteyttä keskustelupalstan pääkäyttäjään.',
+'Desc 2'					=>	'Alapuolella on lomake joka tulee täyttää rekisteröitymistä varten. Kun olet rekisteröitynyt palvelun käyttäjäksi, mukauta profiilisi asetukset sopiviksi. Alla olevat syötekentät vaikuttavat vain pieneen osan niistä asetuksista joita voit muuttaa profiilissasi.',
+'Username legend'			=>	'Käyttäjänimen tulee olla  2 - 25 merkkiä pitkä. ',
+'Pass legend'				=>	'Syötä ja vahvista valitsemasi salasana',
+'Pass info'					=>	'Salasanan tulee olla ainakin 4 merkkiä pitkä. Isot ja pienet kirjaimet huomioidaan.',
+'Email info'				=>	'Sinun täytyy antaa käytössäsi oleva toimiva sähköpostiosoite. Palvelun automaattisesti luoma salasana lähetetään tähän osoitteeseen.',
+'Confirm email'				=>	'Vahvista sähköpostiosoite',
 
 );
