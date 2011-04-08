@@ -4,35 +4,35 @@
 $lang_post = array(
 
 // Post validation stuff (many are similiar to those in edit.php)
-'No subject'		=>	'Topics must contain a subject.',
-'No subject after censoring'	=>	'Topics must contain a subject. After applying censoring filters, your subject was empty.',
-'Too long subject'	=>	'Subjects cannot be longer than 70 characters.',
-'No message'		=>	'You must enter a message.',
-'No message after censoring'	=>	'You must enter a message. After applying censoring filters, your message was empty.',
-'Too long message'	=>	'Posts cannot be longer that %s bytes.',
-'All caps subject'	=>	'Subjects cannot contain only capital letters.',
-'All caps message'	=>	'Posts cannot contain only capital letters.',
-'Empty after strip'	=>	'It seems your post consisted of empty BBCodes only. It is possible that this happened because e.g. the innermost quote was discarded because of the maximum quote depth level.',
+'No subject'		=>	'Ketjuilla pitää olla aihe.',
+'No subject after censoring'	=>	'Ketjuilla pitää olla aihe. Suodatuksen jälkeen aiheesi oli tyhjä.',
+'Too long subject'	=>	'Aihe ei voi olla yli 70 merkkiä pitkä.',
+'No message'		=>	'Sinun täytyy kirjoittaa viesti.',
+'No message after censoring'	=>	'Sinun täytyy kirjoittaa viesti. Suodatuksen jälkeen viestisi oli tyhjä.',
+'Too long message'	=>	'Viestit eivät voi olla %s tavua pidempiä.',
+'All caps subject'	=>	'Aiheet eivät voi sisältää ainoastaan isoja kirjaimia.',
+'All caps message'	=>	'Viestit eivät voi sisältää ainoastaan isoja kirjaimia.',
+'Empty after strip'	=>	'Näyttää siltä, että viestisi sisälsi ainoastaan tyhjiä BBCode-tageja. Voi olla, että tämä tapahtui esimerkiksi sisimmän lainauksen hylkäämisen vuoksi, koska suurin sallittu lainausten määrä ylittyi.',
 
 // Posting
-'Post errors'		=>	'Post errors',
-'Post errors info'	=>	'The following errors need to be corrected before the message can be posted:',
-'Post preview'		=>	'Post preview',
+'Post errors'		=>	'Viestin virheet',
+'Post errors info'	=>	'Seuraavat virheet tulee korjata ennen kuin viesti voidaan lähettää:',
+'Post preview'		=>	'Viestin esikatselu',
 'Guest name'		=>	'Nimi', // For guests (instead of Username)
-'Post redirect'		=>	'Post entered. Redirecting …',
-'Post a reply'		=>	'Post a reply',
-'Post new topic'	=>	'Post new topic',
-'Hide smilies'		=>	'Never show smilies as icons for this post',
-'Subscribe'			=>	'Subscribe to this topic',
-'Stay subscribed'	=>	'Stay subscribed to this topic',
-'Topic review'		=>	'Topic review (newest first)',
-'Flood start'		=>	'At least',
-'flood end'			=>	'seconds have to pass between posts. Please wait a little while and try posting again.',
+'Post redirect'		=>	'Viesti lisätty. Uudelleenohjataan …',
+'Post a reply'		=>	'Lähetä viesti',
+'Post new topic'	=>	'Lähetä uusi ketju',
+'Hide smilies'		=>	'Älä koskaan näytä hymiöitä ikoneina tässä ketjussa',
+'Subscribe'			=>	'Tilaa tämä ketju',
+'Stay subscribed'	=>	'Pidä tämän ketjun tilaus',
+'Topic review'		=>	'Ketjun esikatselu (uusin ensin)',
+'Flood start'		=>	'Vähintään',
+'flood end'			=>	'sekuntia täytyy kulua viestien välillä. Odota hetki ja yritä sitten uudelleen.',
 'Preview'			=>	'Esikatselu', // submit button to preview message
 
 // Edit post
-'Edit post legend'	=>	'Edit the post and submit changes',
-'Silent edit'		=>	'Silent edit (don\'t display "Edited by ..." in topic view)',
+'Edit post legend'	=>	'Muokkaa viestiä ja hyväksy muutokset',
+'Silent edit'		=>	'Hiljainen muokkaus (älä näytä "Muokattu ..." ketjun katselussa)',
 'Edit post'			=>	'Muokkaa',
 'Edit redirect'		=>	'Viesti&auml; p&auml;ivitetty. Ohjataan...'
 
