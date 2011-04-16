@@ -12,12 +12,12 @@ $lang_common = array(
 'lang_thousands_sep'				=>	' ',
 
 // Notices
-'Bad request'						=>	'Virheellinen pyynt&ouml;. Linkki jota klikkasit on virheellinen tai vanhentunut.',
+'Bad request'						=>	'Virheellinen pyynt&ouml;. Linkki, jota klikkasit, on virheellinen tai vanhentunut.',
 'No view'							=>	'Sinulla ei ole tarvittavia oikeuksia!',
 'No permission'						=>	'Sinulla ei ole tarvittavia oikeuksia!',
 'Bad referrer'						=>	'Virheellinen HTTP_REFERER. Sinut ohjattiin t&auml;lle sivulle virheellisest&auml; l&auml;hteest&auml;. Jos ongelma ei katoa, varmistä ett&auml; osoite on oikein laitettu hallinnasta Lis&auml;&auml; ohjeita saat FluxBB dokumentaatiosta.',
 'No cookie'							=>	'Olet kirjautuneena, mutta cookieta ei ole asetettu. Varmista, ett&auml; cookiet on asetettu p&auml;&auml;lle!',
-'Pun include error'					=>	'Unable to process user include %s from template %s. There is no such file in neither the template directory nor in the user include directory.',
+'Pun include error'					=>	'User includea %s ei voida prosessoida templatesta %s. Tiedostoa ei ole template-hakemistossa eikä user include -hakemistossa.',
 
 // Miscellaneous
 'Announcement'						=>	'Ilmoitus',
@@ -81,13 +81,13 @@ $lang_common = array(
 'Guest'								=>	'Vieras',
 
 // Stuff for include/parser.php
-'BBCode error no opening tag'		=>	'[/%1$s] was found without a matching [%1$s]',
-'BBCode error invalid nesting'		=>	'[%1$s] was opened within [%2$s], this is not allowed',
-'BBCode error invalid self-nesting'	=>	'[%s] was opened within itself, this is not allowed',
-'BBCode error no closing tag'		=>	'[%1$s] was found without a matching [/%1$s]',
-'BBCode error empty attribute'		=>	'[%s] tag had an empty attribute section',
-'BBCode code problem'				=>	'There is a problem with your [code] tags',
-'BBCode list size error'			=>	'Your list was too long to parse, please make it smaller!',
+'BBCode error no opening tag'		=>	'[/%1$s] löytyi ilman täsmäävää [%1$s]',
+'BBCode error invalid nesting'		=>	'[%1$s] avattiin [%2$s] kanssa, tämä ei ole sallittua',
+'BBCode error invalid self-nesting'	=>	'[%s] avattiin itsensä kanssa, tämä ei ole sallittua',
+'BBCode error no closing tag'		=>	'[%1$s] löytyi ilman täsmäävää [/%1$s]',
+'BBCode error empty attribute'		=>	'[%s] tagilla oli tyhjä attribute-arvo',
+'BBCode code problem'				=>	'[code]-tageissasi on ongelma',
+'BBCode list size error'			=>	'Lista oli liian pitkä parsittavaksi, ole hyvä ja tee siitä lyhyempi!',
 
 // Stuff for the navigator (top of every page)
 'Index'								=>	'Etusivu',
@@ -129,45 +129,45 @@ $lang_common = array(
 'Powered by'						=>	'Powered by %s',
 
 // Debug information
-'Debug table'						=>	'Debug information',
-'Querytime'							=>	'Generated in %1$s seconds, %2$s queries executed',
-'Memory usage'						=>	'Memory usage: %1$s',
-'Peak usage'						=>	'(Peak: %1$s)',
-'Query times'						=>	'Time (s)',
-'Query'								=>	'Query',
-'Total query time'					=>	'Total query time: %s',
+'Debug table'						=>	'Debug-informaatio',
+'Querytime'							=>	'Luotu %1$s sekunnissa, %2$s kyselyä suoritettiin',
+'Memory usage'						=>	'Muistin käyttö: %1$s',
+'Peak usage'						=>	'(Piikki: %1$s)',
+'Query times'						=>	'Aika (s)',
+'Query'								=>	'Kysely',
+'Total query time'					=>	'Kyselyiden kokonaisaika: %s',
 
 // Email related notifications
-'New user notification'				=>	'Alert - New registration',
-'New user message'					=>	'User \'%s\' registered in the forums at %s',
-'Banned email notification'			=>	'Alert - Banned email detected',
-'Banned email register message'		=>	'User \'%s\' registered with banned email address: %s',
-'Banned email change message'		=>	'User \'%s\' changed to banned email address: %s',
-'Banned email post message'			=>	'User \'%s\' posted with banned email address: %s',
-'Duplicate email notification'		=>	'Alert - Duplicate email detected',
-'Duplicate email register message'	=>	'User \'%s\' registered with an email address that also belongs to: %s',
-'Duplicate email change message'	=>	'User \'%s\' changed to an email address that also belongs to: %s',
-'Report notification'				=>	'Report(%d) - \'%s\'',
-'Report message 1'					=>	'User \'%s\' has reported the following message: %s',
-'Report message 2'					=>	'Reason: %s',
+'New user notification'				=>	'Hälytys - Uusi rekisteröityminen',
+'New user message'					=>	'Käyttäjä \'%s\' rekisteröityi foorumille %s',
+'Banned email notification'			=>	'Hälytys - Bannattu sähköposti tunnistettu',
+'Banned email register message'		=>	'Käyttäjä \'%s\' rekisteröityi bannatulla sähköpostilla: %s',
+'Banned email change message'		=>	'Käyttäjä \'%s\' vaihtoi bannattuun sähköpostiin: %s',
+'Banned email post message'			=>	'Käyttäjä \'%s\' lähetti viestin bannatulla sähköpostilla: %s',
+'Duplicate email notification'		=>	'Hälytys - email-duplikaatti havaittu',
+'Duplicate email register message'	=>	'Käyttäjä \'%s\' rekisteröityi sähköpostiosoitteella joka kuuluu jo käyttäjälle: %s',
+'Duplicate email change message'	=>	'Käyttäjä \'%s\' vaihtoi sähköpostiosoitteeseen joka kuuluu jo käyttäjälle: %s',
+'Report notification'				=>	'Raportti(%d) - \'%s\'',
+'Report message 1'					=>	'Käyttäjä \'%s\' on raportoinut seuraavan viestin: %s',
+'Report message 2'					=>	'Syy: %s',
 
-'User profile'						=>	'User profile: %s',
-'Post URL'							=>	'Post URL: %s',
-'Email signature'					=>	'Forum Mailer'."\n".'(Do not reply to this message)',
+'User profile'						=>	'Käyttäjän profiili: %s',
+'Post URL'							=>	'Viestin URL: %s',
+'Email signature'					=>	'Forum Mailer'."\n".'(Älä vastaa tähän viestiin)',
 
 // For extern.php RSS feed
-'RSS description'					=>	'The most recent topics at %s.',
-'RSS description topic'				=>	'The most recent posts in %s.',
+'RSS description'					=>	'Uusimmat aiheet alueella %s.',
+'RSS description topic'				=>	'Uusimmat viestit ketjussa %s.',
 'RSS reply'							=>	'Re: ', // The topic subject will be appended to this string (to signify a reply)
-'RSS active topics feed'			=>	'RSS active topics feed',
-'Atom active topics feed'			=>	'Atom active topics feed',
-'RSS forum feed'					=>	'RSS forum feed',
-'Atom forum feed'					=>	'Atom forum feed',
-'RSS topic feed'					=>	'RSS topic feed',
-'Atom topic feed'					=>	'Atom topic feed',
+'RSS active topics feed'			=>	'Aktiivisten ketjujen RSS-syöte',
+'Atom active topics feed'			=>	'Aktiivisten ketjujen Atom-syöte',
+'RSS forum feed'					=>	'Foorumin RSS-syöte',
+'Atom forum feed'					=>	'Foorumin Atom-syöte',
+'RSS topic feed'					=>	'Ketjun RSS-syöte',
+'Atom topic feed'					=>	'Ketjun Atom-syöte',
 
 // Admin related stuff in the header
-'New reports'						=>	'There are new reports',
-'Maintenance mode enabled'			=>	'Maintenance mode is enabled!',
+'New reports'						=>	'Uusia raportteja',
+'Maintenance mode enabled'			=>	'Huoltotila käytössä!',
 
 );
