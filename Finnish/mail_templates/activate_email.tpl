@@ -1,12 +1,12 @@
-Subject: Change email address requested
+Subject: Sähköpostin vaihto
 
-Hello <username>,
+Hei <username>,
 
-You have requested to have a new email address assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your email address you should just ignore this message. Only if you visit the activation page below will your email address be changed. In order for the activation page to work, you must be logged in to the forum.
+olet pyytänyt uuden sähköpostin asettamista tilillesi foorumilla <base_url>. Jos et pyytänyt tätä tai et halua vaihtaa sähköpostiosoitettasi, voit poistaa tämän viestin. Vain aktivointisivulla käymällä saat muutettua sähköpostisi. Aktivointisivu vaatii toimiakseen sen, että olet kirjautuneena foorumille.
 
-To change your email address, please visit the following page:
+Vaihtaaksesi sähköpostiosoitteesi, vieraile aktivointisivulla:
 <activation_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(Viestiin ei tarvitse vastata)
