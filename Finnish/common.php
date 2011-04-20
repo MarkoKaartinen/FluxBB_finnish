@@ -15,9 +15,9 @@ $lang_common = array(
 'Bad request'						=>	'Virheellinen pyynt&ouml;. Linkki, jota klikkasit, on virheellinen tai vanhentunut.',
 'No view'							=>	'Sinulla ei ole tarvittavia oikeuksia!',
 'No permission'						=>	'Sinulla ei ole tarvittavia oikeuksia!',
-'Bad referrer'						=>	'Virheellinen HTTP_REFERER. Sinut ohjattiin t&auml;lle sivulle virheellisest&auml; l&auml;hteest&auml;. Jos ongelma ei katoa, varmistä ett&auml; osoite on oikein laitettu hallinnasta Lis&auml;&auml; ohjeita saat FluxBB dokumentaatiosta.',
+'Bad referrer'						=>	'Virheellinen HTTP_REFERER. Sinut ohjattiin t&auml;lle sivulle virheellisest&auml; l&auml;hteest&auml;. Jos ongelma ei katoa, varmist&auml; ett&auml; osoite on oikein laitettu hallinnasta Lis&auml;&auml; ohjeita saat FluxBB dokumentaatiosta.',
 'No cookie'							=>	'Olet kirjautuneena, mutta cookieta ei ole asetettu. Varmista, ett&auml; cookiet on asetettu p&auml;&auml;lle!',
-'Pun include error'					=>	'User includea %s ei voida prosessoida templatesta %s. Tiedostoa ei ole template-hakemistossa eikä user include -hakemistossa.',
+'Pun include error'					=>	'User includea %s ei voida prosessoida templatesta %s. Tiedostoa ei ole template-hakemistossa eik&auml; user include -hakemistossa.',
 
 // Miscellaneous
 'Announcement'						=>	'Ilmoitus',
@@ -70,7 +70,7 @@ $lang_common = array(
 'Previous'							=>	'Edellinen',
 'Next'								=>	'Seuraava',
 'Forum index'						=>	'Keskustelualueen etusivu',
-'Spacer'							=>	'…', // Ellipsis for paginate
+'Spacer'							=>	'...', // Ellipsis for paginate
 
 // Title
 'Title'								=>	'Titteli',
@@ -81,13 +81,13 @@ $lang_common = array(
 'Guest'								=>	'Vieras',
 
 // Stuff for include/parser.php
-'BBCode error no opening tag'		=>	'[/%1$s] löytyi ilman täsmäävää [%1$s]',
-'BBCode error invalid nesting'		=>	'[%1$s] avattiin [%2$s] kanssa, tämä ei ole sallittua',
-'BBCode error invalid self-nesting'	=>	'[%s] avattiin itsensä kanssa, tämä ei ole sallittua',
-'BBCode error no closing tag'		=>	'[%1$s] löytyi ilman täsmäävää [/%1$s]',
-'BBCode error empty attribute'		=>	'[%s] tagilla oli tyhjä attribute-arvo',
+'BBCode error no opening tag'		=>	'[/%1$s] l&ouml;ytyi ilman t&auml;sm&auml;&auml;v&auml;&auml; [%1$s]',
+'BBCode error invalid nesting'		=>	'[%1$s] avattiin [%2$s] kanssa, t&auml;m&auml; ei ole sallittua',
+'BBCode error invalid self-nesting'	=>	'[%s] avattiin itsens&auml; kanssa, t&auml;m&auml; ei ole sallittua',
+'BBCode error no closing tag'		=>	'[%1$s] l&ouml;ytyi ilman t&auml;sm&auml;&auml;v&auml;&auml; [/%1$s]',
+'BBCode error empty attribute'		=>	'[%s] tagilla oli tyhj&auml; attribute-arvo',
 'BBCode code problem'				=>	'[code]-tageissasi on ongelma',
-'BBCode list size error'			=>	'Lista oli liian pitkä parsittavaksi, ole hyvä ja tee siitä lyhyempi!',
+'BBCode list size error'			=>	'Lista oli liian pitk&auml; parsittavaksi, ole hyv&auml; ja tee siit&auml; lyhyempi!',
 
 // Stuff for the navigator (top of every page)
 'Index'								=>	'Etusivu',
@@ -130,44 +130,44 @@ $lang_common = array(
 
 // Debug information
 'Debug table'						=>	'Debug-informaatio',
-'Querytime'							=>	'Luotu %1$s sekunnissa, %2$s kyselyä suoritettiin',
-'Memory usage'						=>	'Muistin käyttö: %1$s',
+'Querytime'							=>	'Luotu %1$s sekunnissa, %2$s kysely&auml; suoritettiin',
+'Memory usage'						=>	'Muistin k&auml;ytt&ouml;: %1$s',
 'Peak usage'						=>	'(Piikki: %1$s)',
 'Query times'						=>	'Aika (s)',
 'Query'								=>	'Kysely',
 'Total query time'					=>	'Kyselyiden kokonaisaika: %s',
 
 // Email related notifications
-'New user notification'				=>	'Hälytys - Uusi rekisteröityminen',
-'New user message'					=>	'Käyttäjä \'%s\' rekisteröityi foorumille %s',
-'Banned email notification'			=>	'Hälytys - Bannattu sähköposti tunnistettu',
-'Banned email register message'		=>	'Käyttäjä \'%s\' rekisteröityi bannatulla sähköpostilla: %s',
-'Banned email change message'		=>	'Käyttäjä \'%s\' vaihtoi bannattuun sähköpostiin: %s',
-'Banned email post message'			=>	'Käyttäjä \'%s\' lähetti viestin bannatulla sähköpostilla: %s',
-'Duplicate email notification'		=>	'Hälytys - email-duplikaatti havaittu',
-'Duplicate email register message'	=>	'Käyttäjä \'%s\' rekisteröityi sähköpostiosoitteella joka kuuluu jo käyttäjälle: %s',
-'Duplicate email change message'	=>	'Käyttäjä \'%s\' vaihtoi sähköpostiosoitteeseen joka kuuluu jo käyttäjälle: %s',
+'New user notification'				=>	'H&auml;lytys - Uusi rekister&ouml;ityminen',
+'New user message'					=>	'K&auml;ytt&auml;j&auml; \'%s\' rekister&ouml;ityi foorumille %s',
+'Banned email notification'			=>	'H&auml;lytys - Bannattu s&auml;hk&ouml;posti tunnistettu',
+'Banned email register message'		=>	'K&auml;ytt&auml;j&auml; \'%s\' rekister&ouml;ityi bannatulla s&auml;hk&ouml;postilla: %s',
+'Banned email change message'		=>	'K&auml;ytt&auml;j&auml; \'%s\' vaihtoi bannattuun s&auml;hk&ouml;postiin: %s',
+'Banned email post message'			=>	'K&auml;ytt&auml;j&auml; \'%s\' l&auml;hetti viestin bannatulla s&auml;hk&ouml;postilla: %s',
+'Duplicate email notification'		=>	'H&auml;lytys - email-duplikaatti havaittu',
+'Duplicate email register message'	=>	'K&auml;ytt&auml;j&auml; \'%s\' rekister&ouml;ityi s&auml;hk&ouml;postiosoitteella joka kuuluu jo k&auml;ytt&auml;j&auml;lle: %s',
+'Duplicate email change message'	=>	'K&auml;ytt&auml;j&auml; \'%s\' vaihtoi s&auml;hk&ouml;postiosoitteeseen joka kuuluu jo k&auml;ytt&auml;j&auml;lle: %s',
 'Report notification'				=>	'Raportti(%d) - \'%s\'',
-'Report message 1'					=>	'Käyttäjä \'%s\' on raportoinut seuraavan viestin: %s',
+'Report message 1'					=>	'K&auml;ytt&auml;j&auml; \'%s\' on raportoinut seuraavan viestin: %s',
 'Report message 2'					=>	'Syy: %s',
 
-'User profile'						=>	'Käyttäjän profiili: %s',
+'User profile'						=>	'K&auml;ytt&auml;j&auml;n profiili: %s',
 'Post URL'							=>	'Viestin URL: %s',
-'Email signature'					=>	'Forum Mailer'."\n".'(Älä vastaa tähän viestiin)',
+'Email signature'					=>	'Forum Mailer'."\n".'(&Auml;l&auml; vastaa t&auml;h&auml;n viestiin)',
 
 // For extern.php RSS feed
 'RSS description'					=>	'Uusimmat aiheet alueella %s.',
 'RSS description topic'				=>	'Uusimmat viestit ketjussa %s.',
 'RSS reply'							=>	'Re: ', // The topic subject will be appended to this string (to signify a reply)
-'RSS active topics feed'			=>	'Aktiivisten ketjujen RSS-syöte',
-'Atom active topics feed'			=>	'Aktiivisten ketjujen Atom-syöte',
-'RSS forum feed'					=>	'Foorumin RSS-syöte',
-'Atom forum feed'					=>	'Foorumin Atom-syöte',
-'RSS topic feed'					=>	'Ketjun RSS-syöte',
-'Atom topic feed'					=>	'Ketjun Atom-syöte',
+'RSS active topics feed'			=>	'Aktiivisten ketjujen RSS-sy&ouml;te',
+'Atom active topics feed'			=>	'Aktiivisten ketjujen Atom-sy&ouml;te',
+'RSS forum feed'					=>	'Foorumin RSS-sy&ouml;te',
+'Atom forum feed'					=>	'Foorumin Atom-sy&ouml;te',
+'RSS topic feed'					=>	'Ketjun RSS-sy&ouml;te',
+'Atom topic feed'					=>	'Ketjun Atom-sy&ouml;te',
 
 // Admin related stuff in the header
 'New reports'						=>	'Uusia raportteja',
-'Maintenance mode enabled'			=>	'Huoltotila käytössä!',
+'Maintenance mode enabled'			=>	'Huoltotila k&auml;yt&ouml;ss&auml;!',
 
 );
