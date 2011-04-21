@@ -10,8 +10,8 @@ Team behind the translation:
 - skvark
 
 About:
-- Finnish folder includes FluxBB translation
-- Modifications folder includes language files for modifications
+- Root of the repo includes finnish translations
+- Modifications folder includes language files for some modifications
 - All scandinavian characters are replaced with entiteties (ä -> &auml;)
 
 FluxBB.fi:
