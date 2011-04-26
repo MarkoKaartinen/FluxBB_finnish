@@ -1,11 +1,11 @@
-Subject: Reply to topic: '<topic_subject>'
+Subject: Vastaus aiheeseen: '<topic_subject>'
 
-<replier> has replied to the topic '<topic_subject>' to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> on vastannut aiheeseen '<topic_subject>', jota seuraat. Siellä voi olla useita uusia vastauksia, mutta tämä on ainut ilmoitus, jonka saat ennen kuin vierailet keskustelualueella
 
-The post is located at <post_url>
+Aiheen osoite on <post_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+Voit lopettaa tilauksen seuraavasta linkistä: <unsubscribe_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(Viestiin ei tarvitse vastata)
