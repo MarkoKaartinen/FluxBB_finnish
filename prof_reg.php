@@ -3,8 +3,8 @@
 // Language definitions used in both profile.php and register.php
 $lang_prof_reg = array(
 
-'Email legend'				=>	'Anna validi s&auml;hk&ouml;postiosoite',
-'Email legend 2'			=>	'Anna ja vahvista validi s&auml;hk&ouml;postiosoite',
+'Email legend'				=>	'Anna toimiva s&auml;hk&ouml;postiosoite',
+'Email legend 2'			=>	'Anna ja vahvista s&auml;hk&ouml;postiosoite',
 'Localisation legend'		=>	'Aseta sijaintiasetukset',
 'Time zone'					=>	'Aikavy&ouml;hyke',
 'Time zone info'			=>	'Jotta foorumi n&auml;ytt&auml;&auml; kellonajat oikein, sinun t&auml;ytyy valita aikavy&ouml;hykkeesi. Jos nyt on kes&auml;aika, sinun tulisi valita my&ouml;s annettu asetus, joka siirt&auml;&auml; kellonaikaa tunnilla eteenp&auml;in.',
